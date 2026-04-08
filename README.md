@@ -1,8 +1,6 @@
-# <img src="https://weedbit.org/_astro/WeedBit.D8BdzzoI.svg" width="200" height="35"/>
+#
 
-![Preview](./public/img/smm.png)
-
-WeedBit is a decentralized cryptocurrency for the cannabis industry. The project is open-source and aims to provide transparent, verifiable, and secure transactions between farms, consumers, and investors.
+Leafcoin is a decentralized cryptocurrency for the cannabis industry. The project is open-source and aims to provide transparent, verifiable, and secure transactions between farms, consumers, and investors.
 
 ## 🔗 Project Website
 [https://weedbit.org](https://weedbit.org)
